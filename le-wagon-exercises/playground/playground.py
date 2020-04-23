@@ -1,0 +1,1 @@
+# TODO: it's a playground, let's write some code (no unit tests to run here)from math import pir = 5permiter = 2*pi*rarea = pi*r*2print("the radius is set to", r,)print("permiter of the circle is", round(permiter, 1))print("area of the disk is", round(area, 1))# def circle_math(radius)
